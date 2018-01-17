@@ -3,6 +3,11 @@
   {% include head.html %}
   <body>
       {% include header.html %}
+
+      <section id="founder-note">
+        {% include founder-note.html %}
+      </section>
+
       <section id="about">
         {% include about.html %}
       </section>
@@ -11,9 +16,12 @@
         {% include contact.html %}
       </section>
 
+     
+
+
      <!--  <section id="projects">
         {% include projects.html %}
       </section> -->
-        {{ content }}
+      
       {% include footer.html %}
   </body>
