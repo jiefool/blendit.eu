@@ -1,0 +1,19 @@
+#services{
+  text-align: center;
+  height: 470px;
+}
+
+.col-3{
+  float: left;
+  width: 33.1%;
+  min-height: 400px;
+  background-color: $main;
+  text-align: center;
+  margin: 5px auto;
+  border: 1px solid white;
+  color: white;
+}
+
+.col-3 h3{
+  color: #ff0;
+}
