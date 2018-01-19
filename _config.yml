@@ -20,3 +20,19 @@ google-analytics:
   id: ""
 
 exclude: ['package.json', 'src', 'node_modules']
+
+
+team: [
+  {
+    name: Jay Paul Aying,
+    title: Co-Founder,
+    image: jay.png,
+    description: Software developer for 5 years. Loves learning new stuff and has an array of known technologies.
+  },
+  {
+    name: Reylieto Doblas,
+    title: Senior Software Developer,
+    image: rey.png,
+    description: Developing complex systems for 7 years and counting. 
+  }
+]

@@ -1,7 +1,8 @@
 .founders-note{
   width: 100%;
   background-color: #D3D3D3;
-  margin-top: -20px;
+  min-height: 350px;
+  margin-bottom: -20px;
 }
 
 .founders-text{
@@ -20,4 +21,21 @@
 
 .italic-text{
   font-style: italic;
+}
+
+.founders-note div{
+  float: left;
+}
+
+.founder-image{
+  width: 20%;
+  margin-left: 40px;
+  margin-top: 10px;
+  text-align: center;
+
+}
+
+.founder-text{
+  width: 70%;
+  padding: 80px 50px 50px 50px;
 }
