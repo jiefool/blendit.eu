@@ -60,7 +60,7 @@
 .header-links {
   margin: 10px;
   .link {
-    color: #FFF;
+    color: yellow;
     text-decoration: none;
     font-size: 15px;
     margin: 10px;
@@ -131,4 +131,9 @@
         color: $sec;
       }
   }
+}
+
+.clear{
+  clear: both;
+  margin-bottom: 40px;
 }

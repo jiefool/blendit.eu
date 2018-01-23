@@ -1,41 +1,18 @@
-.founders-note{
-  width: 100%;
-  background-color: #D3D3D3;
-  min-height: 350px;
-  margin-bottom: -20px;
-}
-
-.founders-text{
-  padding: 60px;
-}
-
-.big-text{
-  font-weight: bold;
-  font-size: 20px;
-  margin-right: 10px;
-}
-
-.quote {
-  font-size: 40px;
-}
-
-.italic-text{
-  font-style: italic;
-}
-
-.founders-note div{
-  float: left;
+.founder-row{
+  background-color: #d3d3d3;
 }
 
 .founder-image{
-  width: 20%;
-  margin-left: 40px;
-  margin-top: 10px;
   text-align: center;
-
+  padding-top: 35px;
 }
 
-.founder-text{
-  width: 70%;
-  padding: 80px 50px 50px 50px;
+.founder-image img{
+  vertical-align: middle;
+}
+
+.founder-note{
+  min-height: 300px;
+  padding: 100px 50px 100px 50px;
+  font-size: 1.2em;
 }
