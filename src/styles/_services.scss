@@ -1,6 +1,6 @@
 #services{
   text-align: center;
-  height: 470px;
+  min-height: 470px;
 }
 
 .col-3{
@@ -21,7 +21,11 @@
 .service-box{
   background-color: #1a222c;
   margin: 10px;
-  min-height: 300px;
   color: #ff0;
   height: 330px;
+}
+
+.service-box p{
+  color: #fff;
+  font-size: 1.2em;
 }
