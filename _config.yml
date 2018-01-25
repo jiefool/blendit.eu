@@ -22,17 +22,29 @@ google-analytics:
 exclude: ['package.json', 'src', 'node_modules']
 
 
-team: [
-  {
-    name: Jay Paul Aying,
-    title: Co-Founder,
-    image: jay.png,
-    description: Software developer for 5 years. Loves learning new stuff and has an array of known technologies.
-  },
-  {
-    name: Reylieto Doblas,
-    title: Senior Software Developer,
-    image: rey.png,
-    description: Developing complex systems for 7 years and counting. 
-  }
-]
+team:
+  - name: Jay Paul Aying
+    title: Co-Founder
+    image: jay.png
+    description: Software/Hardware Developer offering knowledge on software development using MVC, Agile principles, version control, as well as experience with Data Management.
+  - name: Reylieto Doblas
+    title: oftware Developer
+    image: rey.png
+    description: Having industry experience of 7 years. Involved in complex systems, data visualization and automation. 
+  - name: Jason Tiro
+    title: Software Developer
+    image: jason.png
+    description: Having industry experience of 3 years. Doing designing, mobile development, wordpress deployment, management and modification.
+  - name: Joseph Mangmang
+    title: Software Developer
+    image: joseph.png
+    description: Self-taught developer. Started coding since middle high school. Doing designing, front-end, back-end, marketing and supports.
+  - name: Charles Migriño
+    title: Software Developer
+    image: charles.png
+    description:  Passionate with programming. Self-taught developer and started engaging in software development in highschool. Creating beautiful and functional desktop, mobile, and web applications.
+  - name: Cifergenno Salinas
+    title: Software Developer
+    image: cifer.png
+    description: Experienced Software Engineer. Skilled in VBA, PHP, CSS, HTML, Javascript, jQuery, Mootools, AngularJs, Ruby and Java.
+  

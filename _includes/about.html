@@ -6,4 +6,25 @@
       <p> {{site.about_us_text_b}} </p>
     </div>
   </div>
+  <div class="col-md-10 col-md-offset-1">
+    <h1 class="center-text"> the team </h1>
+    {% for member in site.team %}
+      <div class="col-md-4">
+        <div class="panel panel-default ">
+          <div class="panel-heading member-name-bg">
+            <h3 class="panel-title member-name">{{ member.name }}</h3>
+          </div>
+          <div class="panel-body member-details">
+            <div class="row">
+              <div class="col-md-12">
+                <img src="{{ '/assets/img/' | prepend: site.baseurl | append: member.image }}" class="member-image" />
+              </div>
+            </div>
+            <br/>
+            {{ member.description }}
+          </div>
+
+        </div>
+      </div>
+    {% endfor %}
 </div>
