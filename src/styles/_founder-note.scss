@@ -3,21 +3,35 @@
 }
 
 .founder-image{
+  padding-top: 20px;
   text-align: center;
-  padding-top: 35px;
-}
-
-.founder-image img{
-  vertical-align: middle;
+  width: 180px;
+  margin: auto auto;
 }
 
 .founder-note{
-  min-height: 300px;
-  padding: 100px 50px 100px 50px;
   font-size: 1.2em;
+  display : flex;
+  align-items : center;
+  min-height: 276px;
+  max-height: 500px;
+  padding: 20px;
+}
+
+.founder-note p{
+  display: block;
 }
 
 .icon{
   font-size: 1.8em;
   margin-left: 15px;
+}
+
+.founder-image-wrapper{
+  min-height: 276px;
+  max-height: 400px;
+  text-align: center;
+  display : flex;
+  align-items : center;
+  padding: 10px;
 }
