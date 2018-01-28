@@ -20,10 +20,23 @@
                 <img src="{{ '/assets/img/' | prepend: site.baseurl | append: member.image }}" class="member-image" />
               </div>
             </div>
-            <br/>
-            {{ member.description }}
+            <div class="row">
+              <div class="col-md-12">
+                <br/>
+                {{member.description}}
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-md-12">
+                <h4>PORTFOLIOS</h4>
+                {% for portfolio in member.portfolios %}
+                  <div class="col-md-3">
+                    <a href="{{portfolio.link}}"><img src="{{ '/assets/img/' | prepend: site.baseurl | append: portfolio.icon }}" title="{{portfolio.title}}" class="portfolio-image"></a>
+                  </div>
+                {% endfor %}
+              </div>
+            </div>
           </div>
-
         </div>
       </div>
     {% endfor %}

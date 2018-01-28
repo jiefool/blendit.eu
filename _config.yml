@@ -27,24 +27,105 @@ team:
     title: Co-Founder
     image: jay.png
     description: Software/Hardware Developer offering knowledge on software development using MVC, Agile principles, version control, as well as experience with Data Management.
+    portfolios:
+      - icon: makeuptransformation.png
+        title: Make-up Transformation
+        link: https://play.google.com/store/apps/details?id=com.tirserv.makeuptransformation&hl=en
+      - icon: fml.png
+        title: FML Moment
+        link: https://play.google.com/store/apps/details?id=tirserv.com.fml_moment&hl=en
+      - icon: sproutbooth.png
+        title: SproutBooth
+        link: https://play.google.com/store/apps/details?id=com.tirserv.sprout_booth&hl=en
+      - icon: taoapp.png
+        title: Tao Philippines Mobile App
+        link: https://play.google.com/store/apps/details?id=com.taokalahi&hl=en
+      - icon: taotech.png
+        title: Tao Philippines Web App
+        link: https://taotechph.com
+      - icon: bagollabs.png
+        title: Bagol Lab
+        link: http://bagollabs.com
+      - icon: credicompadre.png
+        title: CrediCompadre
+        link: https://www.credicompadre.mx
+      - icon: boholwhitehouse.png
+        title: Bohol White House
+        link: https://www.boholwhitehouse.com
+      - icon: nstransport.png
+        title: Noel Silver Transport
+        link: https://www.boholnstrasport.com
+      - icon: boholpaddlers.jpg
+        title: Bohol Paddlers
+        link: https://www.boholpaddlers.org
+      - icon: wholesalecarpets.png
+        title: Wholesale Carpets
+        link: https://wholesalecarpets.co.uk
   - name: Reylieto Doblas
     title: oftware Developer
     image: rey.png
     description: Having industry experience of 7 years. Involved in complex systems, data visualization and automation. 
+    portfolios:
+      - icon: tralopia.png
+        title: Tralopia
+        link: https://www.tralopia.com
+      - icon: glimmer.png
+        title: BI Glimmer
+        link: https://bi.glimmer-media.com
   - name: Jason Tiro
     title: Software Developer
     image: jason.png
+    portfolios:
+      - icon: boholinfo.png
+        title: Bohol Info
+        link: https://play.google.com/store/apps/details?id=bohol.info&hl=en
+      - icon: beefarm.png
+        title: Bohol Bee Farm
+        link: https://www.boholbeefarm.com
+      - icon: hayahay.png
+        title: Hayahay
+        link: http://www.hayahayresort.com
+      - icon: casilan.png
+        title: Casilan
+        link: http://casilanrealty.com
+      - icon: moonfools.png
+        title: Moon Fools
+        link: http://www.moonfools.com/
+      - icon: greendesigns.png
+        title: Green Design
+        link: http://www.greendesignsbohol.com
+      - icon: bohollocaldev.png
+        title: Local Development Foundation
+        link: http://www.localdevfoundation.com
+      - icon: freedev.png
+        title: Free Dev
+        link: http://freedevbohol.com
+      - icon: midpoint.png
+        title: Midpoint
+        link: http://www.midpointresidences.com
     description: Having industry experience of 3 years. Doing designing, mobile development, wordpress deployment, management and modification.
   - name: Joseph Mangmang
     title: Software Developer
     image: joseph.png
+    portfolios:
+      - icon: pretextsms.png
+        title: Pretext
+        link: https://play.google.com/store/apps/details?id=org.nanoidea.pretextsms.mms
     description: Self-taught developer. Started coding since middle high school. Doing designing, front-end, back-end, marketing and supports.
   - name: Charles Migriño
     title: Software Developer
     image: charles.png
+    portfolios:
+      - icon:
+        title:
+        link:
     description:  Passionate with programming. Self-taught developer and started engaging in software development in highschool. Creating beautiful and functional desktop, mobile, and web applications.
   - name: Cifergenno Salinas
     title: Software Developer
     image: cifer.png
     description: Experienced Software Engineer. Skilled in VBA, PHP, CSS, HTML, Javascript, jQuery, Mootools, AngularJs, Ruby and Java.
+    portfolios:
+      - icon:
+        title:
+        link:
   
