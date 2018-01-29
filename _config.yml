@@ -111,6 +111,18 @@ team:
       - icon: pretextsms.png
         title: Pretext
         link: https://play.google.com/store/apps/details?id=org.nanoidea.pretextsms.mms
+      - icon: persontracker.jpeg
+        title: Person Tracker Live Prank
+        link: https://play.google.com/store/apps/details?id=com.skimfix.personlocatorlive
+      - icon: naks.jpeg
+        title: Pretext
+        link: https://play.google.com/store/apps/details?id=com.nanoidea.naksradio
+      - icon: flyon.jpeg
+        title: Fly On
+        link: https://play.google.com/store/apps/details?id=com.nanoidea.JumpingBall
+      - icon: freetext.jpeg
+        title: PH Free Text
+        link: https://play.google.com/store/apps/details?id=com.nanoidea.phfreetxt
     description: Self-taught developer. Started coding since middle high school. Doing designing, front-end, back-end, marketing and supports.
   - name: Charles Migriño
     title: Software Developer
