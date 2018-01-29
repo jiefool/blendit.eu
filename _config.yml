@@ -125,7 +125,10 @@ team:
     image: cifer.png
     description: Experienced Software Engineer. Skilled in VBA, PHP, CSS, HTML, Javascript, jQuery, Mootools, AngularJs, Ruby and Java.
     portfolios:
-      - icon:
-        title:
-        link:
+      - icon: nexusnet.png
+        title: Nexus-net
+        link: https://nexus-net.info
+      - icon: r4apps.png
+        title: R4Apps
+        link: https://www.r4apps.com/en
   
