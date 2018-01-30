@@ -1,8 +1,39 @@
-<div class="user-details" id="contact">
+<div class="row" id="contact">
   <h1> contact us </h1>
-  <p>
-    Call us <b>+372 512 3086</b> or e-mail <b>team@blendit.eu</b><br/>
-    <b>Estonian Office:</b> Posti, Kuivastu, Muhu Island<br/>
-    <b>Philippines Office:</b> Tagbilaran City, Bohol, Philippines
- </p>
+  <div class="col-md-4 col-md-offset-2">
+    <form action="https://formspree.io/team@blendit.eu" method="POST" class="bs-example bs-example-form">
+      <div class="form-group">
+        <label>Name:</label>
+        <input type="text" name="name" class="form-control" aria-describedby="basic-addon1"/>
+      </div>
+      <div class="form-group">
+        <label>Company Name:</label>
+        <input type="text" name="company_name"  class="form-control" aria-describedby="basic-addon1"/>
+      </div>
+      <div class="form-group">
+        <label>Email:</label>
+        <input type="email" name="_replyto"  class="form-control" aria-describedby="basic-addon1"/>
+      </div>
+      <div class="form-group">
+        <label>Project Type:</label>
+        <input type="text" name="project_type" class="form-control" aria-describedby="basic-addon1"/>
+      </div>
+      <div class="form-group">
+        <label>Description:</label>
+        <textarea name="project_type" class="form-control" aria-describedby="basic-addon1"></textarea>
+      </div>
+     
+      <br/>
+      <input type="submit" value="Send" class="btn btn-primary btn-block">
+    </form>
+  </div>
+  <div class="col-md-3 col-md-offset-1 contact-text">
+      <div class="contact-details">
+        Call us <b>+372 512 3086</b> or e-mail <b>team@blendit.eu</b><br/>
+          <b>Estonian Office:</b> Posti, Kuivastu, Muhu Island<br/>
+          <b>Philippines Office:</b> Tagbilaran City, Bohol, Philippines
+      </div>
+  </div>
 </div>
+
+
