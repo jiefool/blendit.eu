@@ -130,7 +130,13 @@ team:
     portfolios:
       - icon: ipos.jpeg
         title: iPOS
-        link: http://charlesmigrino.portfoliobox.net/ipos
+        link: https://docs.google.com/document/d/1m4vuHi2b-KXXzpCCpI0kbmJnR4ljKOS3m5yVtofAqlk/edit?usp=sharing
+      - icon: yieldhub.png
+        title: Yield Hub
+        link: https://docs.google.com/document/d/1m4vuHi2b-KXXzpCCpI0kbmJnR4ljKOS3m5yVtofAqlk/edit?usp=sharing
+      - icon: cloudpos.png
+        title: CloudPOS
+        link: https://docs.google.com/document/d/1m4vuHi2b-KXXzpCCpI0kbmJnR4ljKOS3m5yVtofAqlk/edit?usp=sharing
     description:  Passionate with programming. Self-taught developer and started engaging in software development in highschool. Creating beautiful and functional desktop, mobile, and web applications.
   - name: Cifergenno Salinas
     title: Software Developer
