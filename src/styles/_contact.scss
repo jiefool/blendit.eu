@@ -1,7 +1,7 @@
 #contact{
   background-color: #1a222c;
   color: white;
-  min-height: 620px;
+  min-height: 640px;
 }
 
 #contact h1{
@@ -13,7 +13,7 @@
 #contact .contact-text {
   text-align: center;
   display: table;
-  height: 400px;
+  height: 640px;
 }
 
 #contact .contact-details{
@@ -24,4 +24,8 @@
 
 .contact-item{
   color: #ff0;
+}
+
+.contact-form{
+  margin-bottom: 20px;
 }

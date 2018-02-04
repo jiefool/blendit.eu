@@ -1,13 +1,15 @@
 <div class="row about-row">
   <div class="col-md-12">
     <div class="user-details">
-      <h1> about us </h1>
-      <p> {{site.about_us_text}} </p>
-      <p> {{site.about_us_text_b}} </p>
+      <h1> Meet the Team </h1>
+      <div class="col-md-8 col-md-offset-2"> 
+        <p> {{site.about_us_text}} </p>
+        <p> {{site.about_us_text_b}} </p>
+      </div>
     </div>
   </div>
   <div class="col-md-10 col-md-offset-1">
-    <h1 class="center-text"> the team </h1>
+    <h1 class="center-text"></h1>
     {% for member in site.team %}
       <div class="col-md-4">
         <div class="panel panel-default ">
@@ -28,7 +30,7 @@
             </div>
             <div class="row">
               <div class="col-md-12">
-                <h4>PORTFOLIOS</h4>
+                <h4>PORTFOLIO</h4>
                 {% for portfolio in member.portfolios %}
                   <div class="col-md-3">
                     <a href="{{portfolio.link}}"><img src="{{ '/assets/img/' | prepend: site.baseurl | append: portfolio.icon }}" title="{{portfolio.title}}" class="portfolio-image"></a>

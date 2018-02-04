@@ -1,19 +1,19 @@
 # Site settings
 title: Blend IT Software Development & Web Design
-description: Hourly rate starting from 18 eur!
+description: From ONLY 18€ per hour. Payments accepted by bank transfer or paypal.
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Blend IT
-user_description: Hourly rate starting from 18 eur!
+user_description: From ONLY 18€ per hour. Payments accepted by bank transfer or paypal.
 user_title: Software Development & Web Design
 email: tonis@blendit.eu
 twitter_username: ""
 github_username:  ""
 gplus_username:  ""
-about_us_text: Blend IT brings you high quality software development and web design services by developers from Philippines with unbeatable pricing and with highly personal touch! 
-about_us_text_b: Registered in E-Estonia, we are a modern international company in EU that stands on the legs of trust, commitment, and friendship.
+about_us_text: Blend IT brings you high quality software development and web design services by experienced young professional developers from Philippines with unbeatable pricing and with highly personal touch under the personal guidance of a successful European web projects manager!
+about_us_text_b:
 
 # Google-analytics
 google-analytics:
