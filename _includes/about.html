@@ -33,7 +33,7 @@
                 <h4>PORTFOLIO</h4>
                 {% for portfolio in member.portfolios %}
                   <div class="col-md-3">
-                    <a href="{{portfolio.link}}"><img src="{{ '/assets/img/' | prepend: site.baseurl | append: portfolio.icon }}" title="{{portfolio.title}}" class="portfolio-image" alt="{{portfolio.title}}"></a>
+                    <a href="{{portfolio.link}}"><img src="{{ '/assets/img/' | prepend: site.baseurl | append: portfolio.icon }}" title="{{portfolio.title}}" class="portfolio-image" alt="{{portfolio.panel-title}}"></a>
                   </div>
                 {% endfor %}
               </div>
@@ -42,4 +42,5 @@
         </div>
       </div>
     {% endfor %}
+  </div>
 </div>
