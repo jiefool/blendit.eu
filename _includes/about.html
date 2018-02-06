@@ -19,7 +19,7 @@
           <div class="panel-body member-details">
             <div class="row">
               <div class="col-md-12">
-                <img src="{{ '/assets/img/' | prepend: site.baseurl | append: member.image }}" class="member-image" />
+                <img src="{{ '/assets/img/' | prepend: site.baseurl | append: member.image }}" class="member-image" alt="{{ member.name }}" />
               </div>
             </div>
             <div class="row">
@@ -33,7 +33,7 @@
                 <h4>PORTFOLIO</h4>
                 {% for portfolio in member.portfolios %}
                   <div class="col-md-3">
-                    <a href="{{portfolio.link}}"><img src="{{ '/assets/img/' | prepend: site.baseurl | append: portfolio.icon }}" title="{{portfolio.title}}" class="portfolio-image"></a>
+                    <a href="{{portfolio.link}}"><img src="{{ '/assets/img/' | prepend: site.baseurl | append: portfolio.icon }}" title="{{portfolio.title}}" class="portfolio-image" alt="{{portfolio.title}}"></a>
                   </div>
                 {% endfor %}
               </div>
