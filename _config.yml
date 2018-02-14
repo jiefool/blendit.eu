@@ -1,13 +1,13 @@
 # Site settings
-title: Blend IT Software Development & Web Design
-description: From ONLY 18€ per hour. Payments accepted by bank transfer or paypal.
+title: Blend IT Software, App & Web Development + Web Design
+description:  Tried and tested Filipino talent. European service standards. Amazing prices and delivery times.
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Blend IT
-user_description: From ONLY 18€ per hour. Payments accepted by bank transfer or paypal.
-user_title: Software Development & Web Design
+user_title: Software, App & Web Development + Web Design
+user_description: Tried and tested Filipino talent. European service standards. Amazing prices and delivery times.
 email: tonis@blendit.eu
 twitter_username: ""
 github_username:  ""
