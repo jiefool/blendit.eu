@@ -23,6 +23,7 @@ exclude: ['package.json', 'src', 'node_modules']
 
 team:
   - name: Jay Paul Aying
+    linkedin:
     title: Co-Founder
     image: jay.png
     description: Software/Hardware Developer offering knowledge on software development using MVC, Agile principles, version control, as well as experience with Data Management.
@@ -61,6 +62,7 @@ team:
         title: Wholesale Carpets
         link: https://wholesalecarpets.co.uk
   - name: Reylieto Doblas
+    linkedin: https://www.linkedin.com/in/reylieto-doblas-45052067/
     title: oftware Developer
     image: rey.png
     description: Having industry experience of 7 years. Involved in complex systems, data visualization and automation. 
@@ -90,6 +92,7 @@ team:
         title: Football Prediction
         link: https://drive.google.com/open?id=1mIhIB8Kgtm5FM5xpkCgc5WiU3oiIAFM5
   - name: Jason Tiro
+    linkedin: https://www.linkedin.com/in/jason-tiro-14a28488/
     title: Software Developer
     image: jason.png
     portfolios:
@@ -122,6 +125,7 @@ team:
         link: http://www.midpointresidences.com
     description: Having industry experience of 3 years. Doing designing, mobile development, wordpress deployment, management and modification.
   - name: Joseph Mangmang
+    linkedin: https://www.linkedin.com/in/joseph-mangmang/
     title: Software Developer
     image: joseph.png
     portfolios:
@@ -142,6 +146,7 @@ team:
         link: https://play.google.com/store/apps/details?id=com.nanoidea.phfreetxt
     description: Self-taught developer. Started coding since middle high school. Doing designing, front-end, back-end, marketing and supports.
   - name: Charles Migriño
+    linkedin: https://www.linkedin.com/in/charles-migrino
     title: Software Developer
     image: charles.png
     portfolios:
@@ -156,6 +161,7 @@ team:
         link: https://docs.google.com/document/d/1m4vuHi2b-KXXzpCCpI0kbmJnR4ljKOS3m5yVtofAqlk/edit?usp=sharing
     description:  Passionate with programming. Self-taught developer and started engaging in software development in highschool. Creating beautiful and functional desktop, mobile, and web applications.
   - name: Cifergenno Salinas
+    linkedin: https://www.linkedin.com/in/cifergenno-salinas
     title: Software Developer
     image: cifer.png
     description: Experienced Software Engineer. Skilled in VBA, PHP, CSS, HTML, Javascript, jQuery, Mootools, AngularJs, Ruby and Java.
@@ -172,4 +178,9 @@ form:
   description: (project details, how many pages, features, colors, reference site, current website, etc.)
 
 team_image: blendit_team.jpeg
+
+
+testimonials:
+  - content: "I keep hearing from Estonian tech ventures about excellent quality and price ratio of developers in Philippines and Indonesia."
+    name: Sven Illing, early stage investor
   

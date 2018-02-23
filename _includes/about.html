@@ -66,5 +66,17 @@
       </div>
     {% endfor %}
   </div>
+</div>
+</div>
 
+<div class="row testimony-row">
+  <h2>testimonials</h2>
+  {% for testimony in site.testimonials %}
+    <div class="col-md-8 col-md-offset-2 ">
+      <h3>"{{testimony.content}}"</h3>
+      <h5>{{testimony.name}}</h5>
+      <br/>
+      <br/>
+    </div>
+  {% endfor %}
 </div>
