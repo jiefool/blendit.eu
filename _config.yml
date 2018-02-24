@@ -23,7 +23,7 @@ exclude: ['package.json', 'src', 'node_modules']
 
 team:
   - name: Jay Paul Aying
-    linkedin:
+    linkedin: https://www.linkedin.com/in/jaypaulaying/
     title: Co-Founder
     image: jay.png
     description: Software/Hardware Developer offering knowledge on software development using MVC, Agile principles, version control, as well as experience with Data Management.
