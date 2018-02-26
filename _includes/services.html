@@ -71,3 +71,21 @@
     </div>
   </div>
 </div>
+
+<div class="row testimony-row">
+  {% for testimony in site.testimonials %}
+    <div class="col-md-8 col-md-offset-2 ">
+      <div class="col-md-3">
+        <div class="col-md-3 testimony-image-wrapper">
+          <img src="https://media-exp2.licdn.com/mpr/mpr/shrinknp_400_400/p/3/000/000/2d4/3f33492.jpg"> 
+        </div>
+      </div>
+      <div class="col-md-9">
+        <h3>"{{testimony.content}}"</h3>
+        <h5>{{testimony.name}}<a aria-label="My Github" target="_blank" href="https://www.linkedin.com/in/contactsven/"><i class="icon fa fa-linkedin" aria-hidden="true"></i></a></h5>
+      </div>
+      <br/>
+      <br/>
+    </div>
+  {% endfor %}
+</div>
