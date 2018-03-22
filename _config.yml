@@ -172,6 +172,12 @@ team:
       - icon: r4apps.png
         title: R4Apps
         link: https://www.r4apps.com/en
+  - name: Ryan Baldisco
+    linkedin: https://www.linkedin.com/in/cifergenno-salinas
+    title: Software Developer
+    image: ryan.jpeg
+    description: Experienced Software Engineer. Skilled in VBA, PHP, CSS, HTML, Javascript, jQuery, Mootools, AngularJs, Ruby and Java.
+     
 
 
 form:
