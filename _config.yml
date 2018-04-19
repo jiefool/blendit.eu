@@ -176,7 +176,32 @@ team:
     linkedin: https://www.linkedin.com/in/cifergenno-salinas
     title: Software Developer
     image: ryan.jpeg
-    description: Experienced Software Engineer. Skilled in VBA, PHP, CSS, HTML, Javascript, jQuery, Mootools, AngularJs, Ruby and Java.
+    description: 
+    portfolios:
+      - icon: yieldhub.png
+        title: yeildHUB
+        link: https://drive.google.com/file/d/1XMRau2Gf1-hr_esF58ICFxMUjNyt0uMH/view?ts=5ac6290b
+  - name: Reden John Zarra
+    linkedin: https://www.linkedin.com/in/redjohnzarra/
+    title: Software Developer
+    image: reden.jpeg
+    description: Has exceptional analytical and problem-solving skills and can work under pressure. Have high interest in trying new things. Trained to work in fast-paced environment. Experienced in collaborating and working with multiple teams, but capable working independently. Have an immense passion for my work.
+    portfolios:
+      - icon: glimmer.png
+        title: Glimmer
+        link: https://drive.google.com/file/d/11SxWSC4-lQFLErBVAQDDexGPtCKn3rG3/view
+      - icon: mdiscount.png
+        title: Member’s Discount
+        link: https://drive.google.com/open?id=17nTcypGrRvsJTMxvm-jgeoshuL8Zj_Ee
+      - icon: clination.png
+        title: CLInation
+        link: https://drive.google.com/open?id=1Gb-YUaXEn6r_rqNl9DJ2iiMNVDT-Rv7L
+      - icon: hisd3.png
+        title: HISD3
+        link: https://drive.google.com/open?id=1T83KKVQUHFK2Pemm98BzukanxcrkhO2b
+      - icon: isite.png
+        title: iSite Solution
+        link: https://drive.google.com/open?id=1IKRRKOD8YJD11oEFrhuUlyy3zxEO1NV9
      
 
 
